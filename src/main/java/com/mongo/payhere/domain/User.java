@@ -4,7 +4,7 @@ package com.mongo.payhere.domain;
 import java.io.Serializable;
 import java.util.Objects;
 
-//@Entity
+
 public class User implements Serializable {
     
     private String id;
